@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "6a754443-3392-4df8-acdf-8b4f0ac880a4",
+		"name": "EDGE PROJECT API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39612124"
+	},
+	"item": [
+		{
+			"name": "API TESTING",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
